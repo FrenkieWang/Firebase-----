@@ -1,6 +1,6 @@
 教学视频
 https://www.youtube.com/watch?v=PKwu15ldZ7k&t=1529s
 
-Debug
+Debug 1
 解决问题 Error message "error:0308010C:digital envelope routines::unsupported"
 https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
